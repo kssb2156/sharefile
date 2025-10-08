@@ -1,0 +1,18 @@
+CHAIN ของเหรียญ
+"bsc" (Binance Smart Chain)
+"eth" (Ethereum)
+"polygon"
+"arb" (Arbitrum)
+"solana"
+-----------------------------------------------
+Contracts
+ID เหรียญ 
+-----------------------------------------------
+Dinscord : 
+https://discord.com/api/webhooks/1418077751532851272/0x0fb8r4JqlyxkbzmRmhCXjaaI1hK7tDOlguw_ywalhCrEcAtjBVCB3N7hXBuLkQjY44
+-----------------------------------------------
+
+ตัวอย่างเมื่อนำไปใส่ไฟล์ Config
+bsc
+0xe540B35Db53FD17D1432b6F7C01f216Ae043AbcD
+https://discord.com/api/webhooks/1418077751532851272/0x0fb8r4JqlyxkbzmRmhCXjaaI1hK7tDOlguw_ywalhCrEcAtjBVCB3N7hXBuLkQjY44
